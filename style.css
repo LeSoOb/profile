@@ -56,6 +56,18 @@ a:hover {
   text-align: center;
 }
 
+.card-white-small {
+  background: white;
+  padding-top: 10px;
+  padding-right: 40px;
+  padding-bottom: 10px;
+  padding-left: 40px;
+  margin: 20px 0px;
+  border-radius: 4px;
+  box-shadow: 0 10px 30px rgba(0,0,0,.1);
+  text-align: center;
+}
+
 .img-circle {
   border-radius: 50%;
 }
